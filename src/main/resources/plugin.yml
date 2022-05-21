@@ -1,0 +1,4 @@
+name: Paper_sample
+version: '${version}'
+main: io.github.yotutxt.paper_sample.Paper_sample
+api-version: 1.18
